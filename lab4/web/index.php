@@ -6,7 +6,7 @@ $name = " Dee";
 $age = 25;
 
 $arr = array("name",25);
-$asssocr_arr = ["name"=>"Drusawin","age"=>25];
+$asssocr_arr = ["name"=>"NATTAKIT","age"=>21];
 
 echo $arr[0];
 echo $asssocr_arr["age"];
